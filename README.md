@@ -60,6 +60,8 @@ python src/main.py build --vectorizers=doc2vec-200 --sias=linear --similarities=
 
 This will build a REARS model that uses a `doc2vec-200` vectorizer, `linear` sentiment analyzer, and `euclidean` similarity metric.
 
+Or you can skip the building process and download the pre-trained models from [this drive](https://kaistackr-my.sharepoint.com/:u:/g/personal/noppanat_w_kaist_ac_kr/Ec8ZoPmrTstBl7E_ERe2s5oB3pktr2YTcjlLo-rHHKIn0g?e=FWavez).
+
 6. Run the recommendation system to generate a list of recommended animes. For example,
 
 ```shell
@@ -84,7 +86,7 @@ python src/main.py eval -avt
 Alternatively, you can evaluate a particular model using the command line options. For example,
 
 ```shell
-python src/main.py build --vectorizers=doc2vec-200 --sias=linear --similarities=euclidean -vt
+python src/main.py eval --vectorizers=doc2vec-200 --sias=linear --similarities=euclidean -vt
 ```
 
 This will evaluate a REARS model that uses a `doc2vec-200` vectorizer, `linear` sentiment analyzer, and `euclidean` similarity metric.
