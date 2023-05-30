@@ -29,8 +29,8 @@ The project is structured as follows:
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/kaiitunnz/Review-based-Anime-Recommendation-System
-cd Review-based-Anime-Recommendation-System
+git clone https://github.com/kaiitunnz/review-based-anime-recommendation-system.git
+cd review-based-anime-recommendation-system
 ```
 
 2. Download the [Anime Dataset with Reviews - MyAnimeList dataset](https://www.kaggle.com/datasets/marlesson/myanimelist-dataset-animes-profiles-reviews) into `data/raw/`.
@@ -104,8 +104,8 @@ The implementation of the benchmark model is based on [this tutorial](https://be
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/kaiitunnz/Review-based-Anime-Recommendation-System
-cd Review-based-Anime-Recommendation-System
+git clone https://github.com/kaiitunnz/review-based-anime-recommendation-system.git
+cd review-based-anime-recommendation-system
 ```
 
 2. Download the [Anime Dataset with Reviews - MyAnimeList dataset](https://www.kaggle.com/datasets/marlesson/myanimelist-dataset-animes-profiles-reviews) into `data/raw/`.
