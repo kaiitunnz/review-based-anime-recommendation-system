@@ -1,0 +1,9 @@
+data/*
+models/*
+vectorizers/*
+code.ipynb
+note.md
+.vscode
+.DS_store
+__pycache__
+results/*

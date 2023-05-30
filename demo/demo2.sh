@@ -1,0 +1,1 @@
+python src/main.py run -f demo/data/my_reviews.csv -vt
