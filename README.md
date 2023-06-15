@@ -2,13 +2,13 @@
 
 This repository contains the code and resources for KAIST Spring 2023's course project of CS372: Natural Language Processing with Python. The project focuses on implementing a review-based anime recommendation system.
 
-The figure below illustrates the workflow of the system during the training phase (left) and the working phase (right).
-
 ![Schematic overview of the REARS system](images/diagram.png)
 
-And below shows the results of the model evaluation.
+Figure 1 Schematic overview of (left) the training process and (right) the working process of REARS. The greyed boxes are the key components of the system. <br><br>
 
 ![Model evaluation results](images/results.png)
+
+Figure 2 Model evaluation results <br><br>
 
 ## Project structure
 
